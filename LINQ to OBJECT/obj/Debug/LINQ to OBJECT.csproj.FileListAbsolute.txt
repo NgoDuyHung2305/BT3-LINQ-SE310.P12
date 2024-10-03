@@ -1,0 +1,10 @@
+D:\LINQ to OBJECT\LINQ to OBJECT\bin\Debug\LINQ to OBJECT.exe.config
+D:\LINQ to OBJECT\LINQ to OBJECT\bin\Debug\LINQ to OBJECT.exe
+D:\LINQ to OBJECT\LINQ to OBJECT\bin\Debug\LINQ to OBJECT.pdb
+D:\LINQ to OBJECT\LINQ to OBJECT\obj\Debug\LINQ to OBJECT.csproj.AssemblyReference.cache
+D:\LINQ to OBJECT\LINQ to OBJECT\obj\Debug\LINQ_to_OBJECT.Form1.resources
+D:\LINQ to OBJECT\LINQ to OBJECT\obj\Debug\LINQ_to_OBJECT.Properties.Resources.resources
+D:\LINQ to OBJECT\LINQ to OBJECT\obj\Debug\LINQ to OBJECT.csproj.GenerateResource.cache
+D:\LINQ to OBJECT\LINQ to OBJECT\obj\Debug\LINQ to OBJECT.csproj.CoreCompileInputs.cache
+D:\LINQ to OBJECT\LINQ to OBJECT\obj\Debug\LINQ to OBJECT.exe
+D:\LINQ to OBJECT\LINQ to OBJECT\obj\Debug\LINQ to OBJECT.pdb
